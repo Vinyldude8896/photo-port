@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Photo Port
+### User Story
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As a user looking for a portfolio style website, I would like an application that will showcase all of my photography work. When a user visits the homepage, they are presented with a navigation bar where they can click the about me section to tread more about me. They can click categories of to see the photo galleries in each. They can also contact me by using the contact form. 
+### Features
+This project is a a portfolio Single Page Application website 
+This website features a navigation bar to about me, contact annd gallery pages for different categories.
+The contact will feature a form to complete to contact the owber of the website.
+The categories will display all images in that category and they can be clicked and enlarged into a bigger modal.
 
-## Available Scripts
 
-In the project directory, you can run:
+### badges
+![React.js](https://img.shields.io/badge/React.js-License-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-License-yellowgreen)
+![SPA](https://img.shields.io/badge/SPA-License-yellowgreen)
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [installation](#installation)
+- [contribution guidelines](#contribution)
+- [Test Instructions](#testing)
+- [License](#license)
+- [Questions](#questions)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Installation
+Please clone the github repo here :
+https://github.com/Vinyldude8896/photo-port
 
-### `npm test`
+#### Install Dependencies
+Install dependencies using npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Run the program
+In the root directory run : npm start
+Go to your browser location : http://localhost:3000/
+Test the website by nagivating through the different sections and clicking on pictures in the gallery
 
-### `npm run build`
+#### Deployed app
+The live github page is here: 
+/Vinyldude8896/photo-port/.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Contribution Guidelines
+N/A as of yet
+### Testing
+To test this app:
+1. Clone the repo here : https://github.com/Vinyldude8896/photo-port
+2. Install dependencies using npm install at the root folder.
+3. at the root folder run the command npm start - this will build and run the server.
+4. Go to http://localhost:3000/
+7. Test the different functionality of the webpage
+8 Alternatively you can go here to test the webpage : /Vinyldude8896/photo-port/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Questions
+    email address : kevinnivek@me.com
+    - additional instructions 
+    I can be contacted by phone as well, but prefer email contact first.
 
-### `npm run eject`
+### Images of example readme.md
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="./src/assets/Oh_Snap_Website.png" alt="Getting started">
